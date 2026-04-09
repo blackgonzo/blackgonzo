@@ -19,12 +19,13 @@ I'm a self-taught full stack developer with hands-on experience building and del
 
 ---
 
-## Projects delivered
+## Projects
 
-| Project | Description |
-|---|---|
-| [thinkler.ai](https://thinkler.ai) | AI automation agency website. Bilingual (ES/EN), custom animations, WhatsApp integration. |
-| [amgvirtualcr.com](https://amgvirtualcr.com) | E-commerce fashion store for Costa Rican client. Mobile-first, product catalog. |
+| Project | Type | Description |
+|---|---|---|
+| [thinkler.ai](https://thinkler.ai) | Client work | AI automation agency website. Bilingual (ES/EN), custom animations, WhatsApp integration. |
+| [amgvirtualcr.com](https://amgvirtualcr.com) | Client work | Full stack e-commerce fashion store. Mobile-first, backend, product catalog. |
+| [gonozcr.com](https://gonozcr.com) | Personal project | Web platform with HTML5 games, virtual pet, digital store, and user authentication. |
 
 ---
 
@@ -37,4 +38,4 @@ I'm a self-taught full stack developer with hands-on experience building and del
 
 ---
 
-📧 Reach me on [LinkedIn](https://linkedin.com/in/adrian-zuñiga-morales-74b84a1ab) or at [thinkler.ai](https://thinkler.ai)
+📧 Reach me on [LinkedIn](https://linkedin.com/in/adrian-zuñiga-morales-74b84a1ab) or at [gonozcr.com](https://gonozcr.com)
