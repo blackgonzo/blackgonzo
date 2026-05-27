@@ -38,4 +38,4 @@ I'm a self-taught full stack developer with hands-on experience building and del
 
 ---
 
-📧 Reach me on [LinkedIn](https://linkedin.com/in/adrian-zuñiga-morales-74b84a1ab) or at [gonozcr.com](https://gonozcr.com)
+📧 Reach me on [LinkedIn](https://linkedin.com/in/adrian-zuñiga-morales-74b84a1ab) or at [gonozcr.com]([https://gonozcr.com](https://gonozcr.com/blog/portfolio.html)
